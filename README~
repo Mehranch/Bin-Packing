@@ -1,0 +1,17 @@
+$ ./TestBinPackingAlgorithms 50
+Number of bins:
+Next Fit: 29
+First Fit: 26
+First Fit Decreasing: 24
+
+$ ./TestBinPackingAlgorithms 100
+Number of bins:
+Next Fit: 73
+First Fit: 68
+First Fit Decreasing: 61
+
+$ ./TestBinPackingAlgorithms 500
+Number of bins:
+Next Fit: 326
+First Fit: 286
+First Fit Decreasing: 251

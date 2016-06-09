@@ -1,0 +1,11 @@
+Complie files: make all 
+Clean: make clean 
+
+$ ./TestBinPackingAlgorithms 50
+
+
+$ ./TestBinPackingAlgorithms 100
+
+
+$ ./TestBinPackingAlgorithms 500
+
